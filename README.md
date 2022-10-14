@@ -5,7 +5,7 @@ MSA와 EDA에 대해 좀 더 깊게 알고 그동안 머리 속에만 가지고 
 아래 영상에 나오는 이벤트 스토밍을 활용하여 시스템을 설계 한다.
 
 [https://www.youtube.com/watch?v=hUcpv5fdCIk](https://www.youtube.com/watch?v=hUcpv5fdCIk)
-
+![image](https://user-images.githubusercontent.com/58874807/195865949-424e1d1f-b77d-4ff0-a278-f3003f066521.png)
 ### 진행 기간
 
 1주일 동안 끝낼 수 있는 규모로 제작한다.
